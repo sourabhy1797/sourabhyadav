@@ -21,8 +21,8 @@ I love building **AI-driven solutions** that address privacy concerns, optimize 
 ### **AI & Machine Learning**  
 - Large Language Models (GPT, BERT, RoBERTa, LLaMA, MistralAI)  
 - Transformers & Generative AI (GANs, VAEs, Autoregressive Models)  
-- Machine Learning & Neural Networks (CNNs, RNNs, LSTMs, GRUs)  
-- MLOps / LLMOps (DeepSpeed, MLflow, Kubeflow, AWS SageMaker)
+- Machine Learning & Neural Networks (Predictive Modeling, CNNs, RNNs, LSTMs, GRUs)  
+- MLOps / LLMOps (CI/CD Pipelines, DeepSpeed, MLflow, Kubeflow, AWS SageMaker)
 
 ### **Data Analysis & Management**  
 - SQL, MongoDB, Graph-Based Modeling  
@@ -88,20 +88,6 @@ I love building **AI-driven solutions** that address privacy concerns, optimize 
 
 ---
 
-## 🎤 Talks & Academic Contributions
-- **Invited Speaker**: "Advancements in LLMs & Generative AI" @ Amity University  
-- **Conference Reviewer**: ACM SIGSPATIAL 2023, WPES 2023, COMPSAC 2024  
-- **Published in**: SIGSPATIAL, EDBT, SPIE DCS, ICDCS, and more  
-
----
-
-## 📚 Research Interests  
-🧠 **Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)**  
-🌍 **Spatial Data Privacy (Location Obfuscation) & Threat Modeling**  
-🎨 **Generative AI & Transformer Architectures**  
-🖼 **Computer Vision & Graph-Based Modeling**  
-
----
 
 ## 📑 Research Publications
 
@@ -121,6 +107,21 @@ I love building **AI-driven solutions** that address privacy concerns, optimize 
 - **[Blockchain-Based Consortium for Secure Academic Records and Collaboration](https://www.inderscienceonline.com/doi/abs/10.1504/IJBC.2022.124004) (IIIT-D Research Project)**
 
 > **📌 More papers available on [Google Scholar](https://scholar.google.com/citations?user=Luc18E4AAAAJ&hl=en).**
+
+---
+
+## 📚 Research Interests  
+🧠 **Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)**  
+🌍 **Spatial Data Privacy (Location Obfuscation) & Threat Modeling**  
+🎨 **Generative AI & Transformer Architectures**  
+🖼 **Computer Vision & Graph-Based Modeling**  
+
+---
+
+## 🎤 Talks & Academic Contributions
+- **Invited Speaker**: "Advancements in LLMs & Generative AI" @ Amity University  
+- **Conference Reviewer**: ACM SIGSPATIAL 2023, WPES 2023, COMPSAC 2024  
+- **Published in**: SIGSPATIAL, EDBT, SPIE DCS, ICDCS, and more  
 
 ---
 
